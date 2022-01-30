@@ -36,10 +36,10 @@ SWEP.Kind                     = WEAPON_HEAVY
 SWEP.WeaponID                 = AMMO_M249
 
 SWEP.Primary.Sound			= Sound("pkm.Single")		
-SWEP.Primary.RPM			= 750			
-SWEP.Primary.ClipSize		= 150		
-SWEP.Primary.DefaultClip	= 150
-SWEP.Primary.ClipMax        = 150
+SWEP.Primary.RPM			= 800			
+SWEP.Primary.ClipSize		= 200		
+SWEP.Primary.DefaultClip	= 200
+SWEP.Primary.ClipMax        = 200
 
 SWEP.Primary.Delay          = 0.1
 SWEP.Primary.Cone           = 0.08
@@ -56,8 +56,8 @@ SWEP.data 				= {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		
-SWEP.Primary.Damage		= 13	
-SWEP.HeadshotMultiplier         = 2.2
+SWEP.Primary.Damage		= 12	
+SWEP.HeadshotMultiplier     = 2.75
 SWEP.Primary.Spread		= .035	
 SWEP.Primary.IronAccuracy = .02 
 
