@@ -40,9 +40,9 @@ SWEP.WeaponID = AMMO_RIFLE
 SWEP.Secondary.Sound        = Sound("Default.Zoom")
 SWEP.Primary.Sound			= Sound("Weapon_psg_1.Single")		
 SWEP.Primary.RPM			= 500	
-SWEP.Primary.ClipSize		= 10		
-SWEP.Primary.DefaultClip	= 10	
-SWEP.Primary.ClipMax        = 20
+SWEP.Primary.ClipSize		= 5		
+SWEP.Primary.DefaultClip	= 5	
+SWEP.Primary.ClipMax        = 10
 
 SWEP.Primary.Delay          = 1.5
 SWEP.Primary.Cone           = 0.005
@@ -71,9 +71,9 @@ SWEP.data.ironsights	  = 1
 SWEP.ScopeScale 		  = 0.7
 SWEP.ReticleScale 		  = 0.6
 
-SWEP.HeadshotMultiplier   = 4
+SWEP.HeadshotMultiplier   = 3
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 50	
+SWEP.Primary.Damage		  = 45	
 SWEP.Primary.Spread		  = .01	
 SWEP.Primary.IronAccuracy = .0001
 
