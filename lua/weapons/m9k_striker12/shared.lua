@@ -36,9 +36,9 @@ SWEP.Kind = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("ShotStriker12.Single")		
-SWEP.Primary.RPM			= 365
-SWEP.Primary.ClipSize		= 8			
-SWEP.Primary.DefaultClip	= 8	
+SWEP.Primary.RPM			= 445
+SWEP.Primary.ClipSize		= 12			
+SWEP.Primary.DefaultClip	= 12	
 SWEP.Primary.ClipMax        = 24
 
 SWEP.Primary.Cone           = 0.07
@@ -54,8 +54,8 @@ SWEP.AmmoEnt                = "item_box_buckshot_ttt"
 SWEP.Secondary.IronFOV		= 60		
 SWEP.ShellTime			    = .3
 
-SWEP.Primary.NumShots	    = 8		
-SWEP.Primary.Damage		    = 12
+SWEP.Primary.NumShots	    = 12		
+SWEP.Primary.Damage		    = 4
 SWEP.Primary.Spread		    = .04
 SWEP.Primary.IronAccuracy   = .04	
 
