@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_PISTOL
 
 SWEP.Primary.Sound			= Sound("Weapon_fokkususp.Single")		
 SWEP.Primary.RPM			= 750	
-SWEP.Primary.ClipSize		= 15		
-SWEP.Primary.DefaultClip	= 15		
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.ClipSize		= 13		
+SWEP.Primary.DefaultClip	= 13		
+SWEP.Primary.ClipMax        = 39
 
 SWEP.Primary.Delay          = 0.2
 SWEP.Primary.Cone           = 0.02
@@ -57,7 +57,8 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots    	= 1		
-SWEP.Primary.Damage		    = 20	
+SWEP.Primary.Damage		    = 25
+SWEP.HeadshotMultiplier     = 2.15	
 SWEP.Primary.Spread		    = .02	
 SWEP.Primary.IronAccuracy   = .01 
 
