@@ -36,10 +36,10 @@ SWEP.Kind     = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_MAC10
 
 SWEP.Primary.Sound			= Sound("Weapon_M14SP.Single")		
-SWEP.Primary.RPM			= 750		
-SWEP.Primary.ClipSize		= 30		
-SWEP.Primary.DefaultClip	= 30		
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.RPM			= 725		
+SWEP.Primary.ClipSize		= 20		
+SWEP.Primary.DefaultClip	= 20		
+SWEP.Primary.ClipMax        = 40
 
 SWEP.Primary.Delay           = 0.19
 SWEP.Primary.Cone            = 0.012
@@ -58,7 +58,8 @@ SWEP.data 				= {}
 SWEP.data.ironsights	= 1
 
 SWEP.Primary.NumShots	= 1	
-SWEP.Primary.Damage		= 30	
+SWEP.Primary.Damage		= 22
+SWEP.HeadshotMultiplier    = 2.75	
 SWEP.Primary.Spread		= .01	
 SWEP.Primary.IronAccuracy = .001 
 
