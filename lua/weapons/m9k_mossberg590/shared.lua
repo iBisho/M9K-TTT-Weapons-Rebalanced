@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("Mberg_590.Single")		
 SWEP.Primary.RPM			= 75		
-SWEP.Primary.ClipSize		= 8			
-SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 9			
+SWEP.Primary.DefaultClip	= 9	
+SWEP.Primary.ClipMax        = 18
 
 SWEP.Primary.Delay          = 1.3
 SWEP.Primary.Cone           = 0.085
@@ -56,8 +56,8 @@ SWEP.ShellTime			    = .5
 SWEP.data 				    = {}				
 SWEP.data.ironsights		= 1
 
-SWEP.Primary.NumShots	    = 8		
-SWEP.Primary.Damage		    = 11
+SWEP.Primary.NumShots	    = 14		
+SWEP.Primary.Damage		    = 7
 SWEP.Primary.Spread		    = .03	
 SWEP.Primary.IronAccuracy   = .03	
 
