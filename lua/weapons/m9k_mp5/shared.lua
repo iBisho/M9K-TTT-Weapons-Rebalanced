@@ -57,7 +57,7 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 21
+SWEP.Primary.Damage		    = 23
 SWEP.HeadshotMultiplier     = 2.75	
 SWEP.Primary.Spread		    = .023	
 SWEP.Primary.IronAccuracy   = .013 
