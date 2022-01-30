@@ -37,10 +37,10 @@ SWEP.Kind     = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_M16
 
 SWEP.Primary.Sound			= Sound("hk416weapon.UnsilSingle")	
-SWEP.Primary.RPM			= 800			
-SWEP.Primary.ClipSize		= 30		
-SWEP.Primary.DefaultClip	= 30	
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.RPM			= 900			
+SWEP.Primary.ClipSize		= 20		
+SWEP.Primary.DefaultClip	= 20	
+SWEP.Primary.ClipMax        = 40
 
 SWEP.Primary.Delay          = 0.13
 SWEP.Primary.Cone           = 0.018
@@ -58,7 +58,8 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 24	
+SWEP.Primary.Damage		    = 22
+SWEP.HeadshotMultiplier     = 2.75	
 SWEP.Primary.Spread		    = .025	
 SWEP.Primary.IronAccuracy   = .015 
 
