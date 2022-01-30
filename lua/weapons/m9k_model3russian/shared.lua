@@ -39,7 +39,7 @@ SWEP.Primary.Sound			= Sound("Model3.Single")
 SWEP.Primary.RPM			= 115			
 SWEP.Primary.ClipSize		= 6		
 SWEP.Primary.DefaultClip	= 6		
-SWEP.Primary.ClipMax        = 36
+SWEP.Primary.ClipMax        = 18
 
 SWEP.Primary.Delay          = 0.4
 SWEP.Primary.Cone           = 0.005
@@ -57,10 +57,10 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 31	
+SWEP.Primary.Damage		  = 30	
 SWEP.Primary.Spread		  = .02	
 SWEP.Primary.IronAccuracy = .01 
-SWEP.HeadshotMultiplier   = 4
+SWEP.HeadshotMultiplier   = 3.15
 
 SWEP.IronSightsPos = Vector(4.06, 0, 0.876)
 SWEP.IronSightsAng = Vector(-0.207, 0, 0)
