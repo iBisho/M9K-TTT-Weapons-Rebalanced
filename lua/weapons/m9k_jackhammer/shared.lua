@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("Weapon_Jackhammer.Single")		
 SWEP.Primary.RPM			= 240			
-SWEP.Primary.ClipSize		= 8	
-SWEP.Primary.DefaultClip	= 8		
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 10	
+SWEP.Primary.DefaultClip	= 10		
+SWEP.Primary.ClipMax        = 30
 
 SWEP.Primary.Delay = 0.65
 SWEP.Primary.Cone  = 0.085
@@ -57,7 +57,7 @@ SWEP.data 				        = {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	  = 8		
-SWEP.Primary.Damage		  = 11	
+SWEP.Primary.Damage		  = 10	
 SWEP.Primary.Spread		  = .045	
 SWEP.Primary.IronAccuracy = .045 
 
