@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_PISTOL
 
 SWEP.Primary.Sound			= Sound("Sauer1_P228.Single")		
 SWEP.Primary.RPM			= 500			
-SWEP.Primary.ClipSize		= 13		
-SWEP.Primary.DefaultClip	= 13		
-SWEP.Primary.ClipMax        = 52
+SWEP.Primary.ClipSize		= 15		
+SWEP.Primary.DefaultClip	= 15		
+SWEP.Primary.ClipMax        = 45
 
 SWEP.Primary.Delay          = 0.2
 SWEP.Primary.Cone           = 0.02
@@ -57,7 +57,8 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	= 1		
-SWEP.Primary.Damage		= 20	
+SWEP.Primary.Damage		= 20
+SWEP.HeadshotMultiplier     = 2.15	
 SWEP.Primary.Spread		= .025	
 SWEP.Primary.IronAccuracy = .015 
 
