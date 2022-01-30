@@ -37,9 +37,9 @@ SWEP.AutoSpawnable          = true
 SWEP.Secondary.Sound        = Sound("Default.Zoom")
 SWEP.Primary.Sound			= Sound("Weapon_hksl8.Single")		
 SWEP.Primary.RPM			= 300		
-SWEP.Primary.ClipSize		= 20		
-SWEP.Primary.DefaultClip	= 20	
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.ClipSize		= 10		
+SWEP.Primary.DefaultClip	= 10	
+SWEP.Primary.ClipMax        = 30
 
 SWEP.Primary.Delay          = 0.13
 SWEP.Primary.Cone           = 0.018
@@ -70,7 +70,8 @@ SWEP.ScopeScale 			= 0.9
 SWEP.ReticleScale 			= 0.7
 
 SWEP.Primary.NumShots	= 1		
-SWEP.Primary.Damage		= 22	
+SWEP.Primary.Damage		= 22
+SWEP.HeadshotMultiplier     = 2.75	
 SWEP.Primary.Spread		= .015	
 SWEP.Primary.IronAccuracy = .001 
 
