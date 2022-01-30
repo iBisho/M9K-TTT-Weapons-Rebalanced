@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_DEAGLE
 
 SWEP.Primary.Sound			= Sound("Remington.single")		
 SWEP.Primary.RPM			= 150			
-SWEP.Primary.ClipSize		= 8		
-SWEP.Primary.DefaultClip    = 8		
-SWEP.Primary.ClipMax        = 36
+SWEP.Primary.ClipSize		= 6		
+SWEP.Primary.DefaultClip    = 6		
+SWEP.Primary.ClipMax        = 18
 
 SWEP.Primary.Delay          = 0.7
 SWEP.Primary.Cone           = 0.005
@@ -57,10 +57,10 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 34	
+SWEP.Primary.Damage		    = 32	
 SWEP.Primary.Spread		    = .025	
 SWEP.Primary.IronAccuracy   = .012 
-SWEP.HeadshotMultiplier     = 4
+SWEP.HeadshotMultiplier     = 3.15
 
 SWEP.IronSightsPos = Vector(5.44, 0, 1.72)
 SWEP.IronSightsAng = Vector(0, 0, 0)

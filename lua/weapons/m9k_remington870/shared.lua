@@ -39,7 +39,7 @@ SWEP.Primary.Sound			= Sound("WepRem870.Single")
 SWEP.Primary.RPM			= 70		
 SWEP.Primary.ClipSize		= 8			
 SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipMax        = 16
 
 SWEP.Primary.Delay          = 0.9
 SWEP.Primary.Cone           = 0.085
@@ -59,8 +59,8 @@ SWEP.data.ironsights		= 1
 
 SWEP.ShellTime			= .45
 
-SWEP.Primary.NumShots	= 8		
-SWEP.Primary.Damage		= 11	
+SWEP.Primary.NumShots	= 10		
+SWEP.Primary.Damage		= 7	
 SWEP.Primary.Spread		= .035	
 SWEP.Primary.IronAccuracy = .035	
 
