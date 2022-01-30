@@ -37,7 +37,7 @@ SWEP.Kind     = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_M16
 
 SWEP.Primary.Sound			= Sound("mp40.Single")		
-SWEP.Primary.RPM			= 500			
+SWEP.Primary.RPM			= 550			
 SWEP.Primary.ClipSize		= 32		
 SWEP.Primary.DefaultClip	= 32
 SWEP.Primary.ClipMax        = 64
@@ -58,7 +58,8 @@ SWEP.data 				  = {}
 SWEP.data.ironsights	  = 1
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 25	
+SWEP.Primary.Damage		  = 23
+SWEP.HeadshotMultiplier     = 2.75	
 SWEP.Primary.Spread		  = .022	
 SWEP.Primary.IronAccuracy = .015 
 
