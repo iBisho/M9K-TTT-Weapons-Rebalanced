@@ -41,7 +41,7 @@ SWEP.Primary.Sound			= Sound("weapon_r_bull.single")
 SWEP.Primary.RPM			= 115		
 SWEP.Primary.ClipSize		= 6	
 SWEP.Primary.DefaultClip	= 6
-SWEP.Primary.ClipMax        = 36
+SWEP.Primary.ClipMax        = 12
 
 SWEP.Primary.Delay          = 0.37
 SWEP.Primary.Cone           = 0.005
@@ -69,10 +69,10 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	    = 1	
-SWEP.Primary.Damage		    = 31	
+SWEP.Primary.Damage		    = 34	
 SWEP.Primary.Spread		    = .02	
 SWEP.Primary.IronAccuracy   = .001 
-SWEP.HeadshotMultiplier     = 4
+SWEP.HeadshotMultiplier     = 3.15
 
 SWEP.IronSightsPos      = Vector( 5, -15, -2 )
 SWEP.IronSightsAng      = Vector( 2.6, 1.37, 3.5 )
