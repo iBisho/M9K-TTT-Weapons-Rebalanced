@@ -39,7 +39,7 @@ SWEP.Primary.Sound			= Sound("weapon_luger.single")
 SWEP.Primary.RPM			= 825			
 SWEP.Primary.ClipSize		= 8		
 SWEP.Primary.DefaultClip	= 8		
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.ClipMax        = 32
 
 SWEP.Primary.Delay  = 0.25
 SWEP.Primary.Cone   = 0.02
@@ -57,7 +57,8 @@ SWEP.data 				        = {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 23	
+SWEP.Primary.Damage		  = 18
+SWEP.HeadshotMultiplier    = 2.15	
 SWEP.Primary.Spread		  = .021
 SWEP.Primary.IronAccuracy = .011 
 
