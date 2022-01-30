@@ -38,9 +38,9 @@ SWEP.WeaponID = AMMO_RIFLE
 SWEP.reloadtimer = 0
 SWEP.Primary.Sound			= Sound("Weapon_73.Single")		
 SWEP.Primary.RPM			= 66	
-SWEP.Primary.ClipSize		= 8		
-SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 7		
+SWEP.Primary.DefaultClip	= 7	
+SWEP.Primary.ClipMax        = 21
 
 SWEP.Primary.Cone = 0.005
 SWEP.Primary.Delay = 0.8
@@ -59,7 +59,7 @@ SWEP.data 				= {}
 SWEP.data.ironsights    = 1
 
 SWEP.Primary.NumShots	= 1		
-SWEP.Primary.Damage		= 55
+SWEP.Primary.Damage		= 35
 SWEP.Primary.Spread		= .01	
 SWEP.Primary.IronAccuracy = .0001	
 
