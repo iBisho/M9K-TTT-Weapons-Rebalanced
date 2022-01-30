@@ -36,7 +36,7 @@ SWEP.Kind     = WEAPON_PISTOL
 SWEP.WeaponID = AMMO_DEAGLE
 
 SWEP.Primary.Sound			= Sound("model_627perf.Single")		
-SWEP.Primary.RPM			= 120		
+SWEP.Primary.RPM			= 210		
 SWEP.Primary.ClipSize		= 6		
 SWEP.Primary.DefaultClip    = 6		
 SWEP.Primary.ClipMax        = 36
@@ -57,10 +57,10 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 30	
+SWEP.Primary.Damage		    = 26	
 SWEP.Primary.Spread		    = .01	
 SWEP.Primary.IronAccuracy   = .001
-SWEP.HeadshotMultiplier     = 4
+SWEP.HeadshotMultiplier     = 3.15
 
 SWEP.IronSightsPos = Vector(2.68, 0.019, 1.521)
 SWEP.IronSightsAng = Vector(-0.141, -0.139, 0)
