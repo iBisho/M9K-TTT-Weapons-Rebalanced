@@ -39,7 +39,7 @@ SWEP.Primary.Sound			= Sound("Weapon_Tec9.Single")
 SWEP.Primary.RPM			= 825		
 SWEP.Primary.ClipSize		= 20		
 SWEP.Primary.DefaultClip	= 20		
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.ClipMax        = 40
 
 SWEP.Primary.Delay          = 0.13
 SWEP.Primary.Cone           = 0.025
@@ -57,7 +57,8 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 17	
+SWEP.Primary.Damage		    = 15
+SWEP.HeadshotMultiplier     = 2.15	
 SWEP.Primary.Spread		    = .029	
 SWEP.Primary.IronAccuracy   = .019 
 
