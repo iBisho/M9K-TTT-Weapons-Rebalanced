@@ -37,8 +37,8 @@ SWEP.WeaponID = AMMO_MAC10
 
 SWEP.Primary.Sound			    = Sound("Dmgfok_vikhr.Single")	
 SWEP.Primary.RPM			    = 900			
-SWEP.Primary.ClipSize		    = 30		
-SWEP.Primary.DefaultClip		= 30		
+SWEP.Primary.ClipSize		    = 20		
+SWEP.Primary.DefaultClip		= 20		
 SWEP.Primary.ClipMax        = 60
 
 SWEP.Primary.Delay              = 0.1
@@ -57,7 +57,8 @@ SWEP.data 				        = {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	        = 1		
-SWEP.Primary.Damage		        = 15	
+SWEP.Primary.Damage		        = 14
+SWEP.HeadshotMultiplier     = 2.75		
 SWEP.Primary.Spread	           	= .02	
 SWEP.Primary.IronAccuracy       = .014 
 
