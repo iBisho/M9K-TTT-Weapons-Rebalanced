@@ -36,15 +36,16 @@ SWEP.Kind     = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_M249
 
 SWEP.Primary.Sound			= Sound("Weapon_M_60.Single")		
-SWEP.Primary.RPM			= 575			
-SWEP.Primary.ClipSize		= 150		
-SWEP.Primary.DefaultClip	= 150		
-SWEP.Primary.ClipMax        = 150
+SWEP.Primary.RPM			= 650			
+SWEP.Primary.ClipSize		= 100		
+SWEP.Primary.DefaultClip	= 100		
+SWEP.Primary.ClipMax        = 200
 SWEP.Primary.KickUp			= 0.6		
 SWEP.Primary.KickDown		= 0.4		
 SWEP.Primary.KickHorizontal	= 0.5		
 SWEP.Primary.Automatic		= true		
-SWEP.Primary.Ammo			= "AirboatGun"	
+SWEP.Primary.Ammo			    = "smg1"
+SWEP.AmmoEnt                    = "item_ammo_smg1_ttt"
 SWEP.FiresUnderwater        = true		
 
 SWEP.Secondary.IronFOV		= 65			
@@ -54,9 +55,9 @@ SWEP.data.ironsights		= 1
 SWEP.Primary.Delay        = 0.06
 SWEP.Primary.Cone         = 0.09
 
-SWEP.HeadshotMultiplier   = 2.2
+SWEP.HeadshotMultiplier   = 2.75
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 10	
+SWEP.Primary.Damage		  = 11	
 SWEP.Primary.Spread		  = .035	
 SWEP.Primary.IronAccuracy = .025 
 
