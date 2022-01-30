@@ -39,7 +39,7 @@ SWEP.Primary.Sound			= Sound("weapon_satan1.single")
 SWEP.Primary.RPM			= 115			
 SWEP.Primary.ClipSize		= 6	
 SWEP.Primary.DefaultClip	= 6		
-SWEP.Primary.ClipMax        = 36
+SWEP.Primary.ClipMax        = 18
 
 SWEP.Primary.Delay          = 0.37
 SWEP.Primary.Cone           = 0.005
@@ -57,10 +57,10 @@ SWEP.data 				    = {}
 SWEP.data.ironsights		= 1
 
 SWEP.Primary.NumShots	    = 1		
-SWEP.Primary.Damage		    = 30	
+SWEP.Primary.Damage		    = 29	
 SWEP.Primary.Spread		    = .015	
 SWEP.Primary.IronAccuracy   = .01 
-SWEP.HeadshotMultiplier     = 4
+SWEP.HeadshotMultiplier     = 3.15
 
 SWEP.IronSightsPos = Vector(-2.82, -1.247, 0.456)
 SWEP.IronSightsAng = Vector(0.505, 2.407, 0)
