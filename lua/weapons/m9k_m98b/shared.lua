@@ -72,10 +72,10 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	  = 1	
-SWEP.Primary.Damage		  = 50	
+SWEP.Primary.Damage		  = 55	
 SWEP.Primary.Spread		  = .001	
 SWEP.Primary.IronAccuracy = .0001 
-SWEP.HeadshotMultiplier   = 4
+SWEP.HeadshotMultiplier   = 3
 
 SWEP.IronSightsPos      = Vector( 5, -15, -2 )
 SWEP.IronSightsAng      = Vector( 2.6, 1.37, 3.5 )
