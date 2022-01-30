@@ -39,10 +39,10 @@ SWEP.Primary.Delay = 0.7
 SWEP.Primary.Cone = 0.085
 
 SWEP.Primary.Sound			= Sound("Weapon_usas.Single")		
-SWEP.Primary.RPM			= 260			
-SWEP.Primary.ClipSize		= 8		
-SWEP.Primary.DefaultClip	= 8		
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.RPM			= 315			
+SWEP.Primary.ClipSize		= 10	
+SWEP.Primary.DefaultClip	= 10		
+SWEP.Primary.ClipMax        = 30
 SWEP.Primary.KickUp			= 1		
 SWEP.Primary.KickDown		= 0.4		
 SWEP.Primary.KickHorizontal	= 0.7		
@@ -54,8 +54,8 @@ SWEP.Secondary.IronFOV		= 55
 SWEP.data 				    = {}			
 SWEP.data.ironsights		= 1
 
-SWEP.Primary.NumShots    	= 8		
-SWEP.Primary.Damage		    = 11	
+SWEP.Primary.NumShots    	= 10		
+SWEP.Primary.Damage		    = 7	
 SWEP.Primary.Spread		    = .048	
 SWEP.Primary.IronAccuracy   = .048 
 
