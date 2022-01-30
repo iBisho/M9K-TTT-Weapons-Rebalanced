@@ -38,10 +38,10 @@ SWEP.WeaponID = AMMO_M16
 
 SWEP.AutoSpawnable = false
 SWEP.Primary.Sound			= Sound("Dmgfok_vally.Single")		
-SWEP.Primary.RPM			= 900	
-SWEP.Primary.ClipSize		= 30	
-SWEP.Primary.DefaultClip	= 30 
-SWEP.Primary.ClipMax        = 60 
+SWEP.Primary.RPM			= 850	
+SWEP.Primary.ClipSize		= 25	
+SWEP.Primary.DefaultClip	= 25 
+SWEP.Primary.ClipMax        = 50 
 
 SWEP.Primary.Delay          = 0.13
 SWEP.Primary.Cone           = 0.018
@@ -59,7 +59,8 @@ SWEP.data 				= {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 23	
+SWEP.Primary.Damage		  = 24
+SWEP.HeadshotMultiplier     = 2.75	
 SWEP.Primary.Spread		  = .019	
 SWEP.Primary.IronAccuracy = .008 
 
