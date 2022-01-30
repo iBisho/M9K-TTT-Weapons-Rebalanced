@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("BenelliM3.Single")		
 SWEP.Primary.RPM			= 70		
-SWEP.Primary.ClipSize		= 8			
-SWEP.Primary.DefaultClip	= 8
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 6			
+SWEP.Primary.DefaultClip	= 6
+SWEP.Primary.ClipMax        = 18
 
 SWEP.Primary.Delay = 0.7
 SWEP.Primary.Cone = 0.07
@@ -57,7 +57,7 @@ SWEP.data.ironsights			= 1
 SWEP.ShellTime			        = .45
 
 SWEP.Primary.NumShots	  = 8		
-SWEP.Primary.Damage		  = 11	
+SWEP.Primary.Damage		  = 10	
 SWEP.Primary.Spread		  = .0326	
 SWEP.Primary.IronAccuracy = .0326	
 
