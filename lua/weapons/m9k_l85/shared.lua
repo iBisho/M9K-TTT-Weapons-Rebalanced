@@ -39,7 +39,7 @@ SWEP.WeaponID = AMMO_MAC10
 
 SWEP.Secondary.Sound        = Sound("Default.Zoom")
 SWEP.Primary.Sound			= Sound("Weapon_l85.Single")		
-SWEP.Primary.RPM			= 675		
+SWEP.Primary.RPM			= 775		
 SWEP.Primary.ClipSize		= 30		
 SWEP.Primary.DefaultClip	= 30	
 SWEP.Primary.ClipMax        = 60
@@ -70,7 +70,8 @@ SWEP.ScopeScale 			= 0.5
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	= 1		
-SWEP.Primary.Damage		= 22	
+SWEP.Primary.Damage		= 20
+SWEP.HeadshotMultiplier    = 2.75	
 SWEP.Primary.Spread		= .023	
 SWEP.Primary.IronAccuracy = .015 
 
