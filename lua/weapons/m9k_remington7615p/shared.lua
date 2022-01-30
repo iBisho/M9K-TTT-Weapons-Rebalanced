@@ -39,9 +39,9 @@ SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("7615p_remington.Single")		
 SWEP.Primary.RPM		    = 50	
-SWEP.Primary.ClipSize		= 8		
-SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 4		
+SWEP.Primary.DefaultClip	= 4	
+SWEP.Primary.ClipMax        = 12
 
 SWEP.Primary.Delay          = 1.4
 SWEP.Primary.Cone           = 0.05
@@ -69,8 +69,8 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Secondary.Sound      = Sound("Default.Zoom")
-SWEP.Primary.NumShots	  = 8		
-SWEP.Primary.Damage		  = 11	
+SWEP.Primary.NumShots	  = 18		
+SWEP.Primary.Damage		  = 5	
 SWEP.Primary.Spread		  = .01	
 SWEP.Primary.IronAccuracy = .001
 
