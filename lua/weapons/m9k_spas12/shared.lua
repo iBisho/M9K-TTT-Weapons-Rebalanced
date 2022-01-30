@@ -36,10 +36,10 @@ SWEP.Kind     = WEAPON_HEAVY
 SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("spas_12_shoty.Single")
-SWEP.Primary.RPM			= 350		
-SWEP.Primary.ClipSize		= 8			
-SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.RPM			= 420		
+SWEP.Primary.ClipSize		= 7			
+SWEP.Primary.DefaultClip	= 7	
+SWEP.Primary.ClipMax        = 21
 
 SWEP.Primary.Cone           = 0.05
 SWEP.Primary.Delay          = 0.5
@@ -56,8 +56,8 @@ SWEP.ShellTime			    = .4
 SWEP.data 				    = {}			
 SWEP.data.ironsights		= 1
 
-SWEP.Primary.NumShots	    = 8		
-SWEP.Primary.Damage		    = 11	
+SWEP.Primary.NumShots	    = 10		
+SWEP.Primary.Damage		    = 8	
 SWEP.Primary.Spread		    = .03	
 SWEP.Primary.IronAccuracy   = .03	
 
