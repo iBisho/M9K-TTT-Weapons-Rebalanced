@@ -37,8 +37,8 @@ SWEP.WeaponID = AMMO_M16
 
 
 SWEP.Primary.Sound			= Sound("KAC_PDW.Single")	
-SWEP.Primary.SilencedSound 	= Sound("KAC_PDW.SilentSingle")
-SWEP.Primary.RPM			= 600			
+SWEP.Primary.SilencedSound 		= Sound("KAC_PDW.SilentSingle")
+SWEP.Primary.RPM			= 700			
 SWEP.Primary.ClipSize		= 30		
 SWEP.Primary.DefaultClip	= 30		
 SWEP.Primary.ClipMax        = 60
@@ -60,7 +60,8 @@ SWEP.data.ironsights	= 1
 SWEP.CanBeSilenced		= true
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 23
+SWEP.Primary.Damage		  = 18
+SWEP.HeadshotMultiplier    = 2.75
 SWEP.Primary.Spread		  = .025	
 SWEP.Primary.IronAccuracy = .015 
 
