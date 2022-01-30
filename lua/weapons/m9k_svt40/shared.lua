@@ -40,9 +40,9 @@ SWEP.WeaponID = AMMO_RIFLE
 SWEP.Secondary.Sound        = Sound("Default.Zoom")
 SWEP.Primary.Sound			= Sound("Weapon_SVT40.single")		
 SWEP.Primary.RPM			= 50		
-SWEP.Primary.ClipSize		= 20	
-SWEP.Primary.DefaultClip	= 20	
-SWEP.Primary.ClipMax        = 60
+SWEP.Primary.ClipSize		= 10	
+SWEP.Primary.DefaultClip	= 10	
+SWEP.Primary.ClipMax        = 20
 
 SWEP.Primary.Delay          = 0.7
 SWEP.Primary.Cone           = 0.005
@@ -70,10 +70,10 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	  = 1		
-SWEP.Primary.Damage		  = 35	
+SWEP.Primary.Damage		  = 27	
 SWEP.Primary.Spread		  = .01	
 SWEP.Primary.IronAccuracy = .0001 
-SWEP.HeadshotMultiplier   = 4
+SWEP.HeadshotMultiplier     = 2.75
 
 SWEP.IronSightsPos      = Vector( 5, -15, -2 )
 SWEP.IronSightsAng      = Vector( 2.6, 1.37, 3.5 )
