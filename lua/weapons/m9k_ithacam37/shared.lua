@@ -37,9 +37,9 @@ SWEP.WeaponID = AMMO_SHOTGUN
 
 SWEP.Primary.Sound			= Sound("IthacaM37.Single")		
 SWEP.Primary.RPM			= 60		
-SWEP.Primary.ClipSize		= 8			
-SWEP.Primary.DefaultClip	= 8	
-SWEP.Primary.ClipMax        = 24
+SWEP.Primary.ClipSize		= 5			
+SWEP.Primary.DefaultClip	= 5	
+SWEP.Primary.ClipMax        = 15
 
 SWEP.Primary.Delay = 1.1
 SWEP.Primary.Cone = 0.085
@@ -56,8 +56,8 @@ SWEP.ShellTime			= .4
 SWEP.data 				= {}			
 SWEP.data.ironsights	= 1
 
-SWEP.Primary.NumShots	  = 8		
-SWEP.Primary.Damage		  = 11	
+SWEP.Primary.NumShots	  = 7		
+SWEP.Primary.Damage		  = 10	
 SWEP.Primary.Spread		  = .023	
 SWEP.Primary.IronAccuracy = .023	
 
